@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mp3-app/static/css/main.e864a55e.css",
+    "main.js": "/mp3-app/static/js/main.0e3918a6.js",
+    "static/js/787.46ae36d0.chunk.js": "/mp3-app/static/js/787.46ae36d0.chunk.js",
+    "index.html": "/mp3-app/index.html",
+    "main.e864a55e.css.map": "/mp3-app/static/css/main.e864a55e.css.map",
+    "main.0e3918a6.js.map": "/mp3-app/static/js/main.0e3918a6.js.map",
+    "787.46ae36d0.chunk.js.map": "/mp3-app/static/js/787.46ae36d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e864a55e.css",
+    "static/js/main.0e3918a6.js"
+  ]
+}
